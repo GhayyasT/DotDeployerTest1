@@ -1,5 +1,5 @@
 {
-  "type": "object",
+  "type": "newobject",
   "properties": {
     "version": {
       "type": "string",
