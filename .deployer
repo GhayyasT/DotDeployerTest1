@@ -1,5 +1,5 @@
 {
-  "type": "newobject",
+  "type": "actualstringwasonlyobject",
   "properties": {
     "version": {
       "type": "string",
